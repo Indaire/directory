@@ -11,7 +11,7 @@ import (
 	"github.com/btcsuite/btcutil"
 )
 
-const ResultsPerPage = 1280000
+const ResultsPerPage = 1280
 
 const PageTemplateHeader = `<html>
 <head>
